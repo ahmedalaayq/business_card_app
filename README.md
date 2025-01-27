@@ -37,7 +37,7 @@ The **Business Card App** is a sleek and modern Flutter application that lets yo
 
 ### 💡 Created by Ahmed Emad
 **Technical Flutter**  
-**GDG On Campus Benha 24.25**
+**GDG On Campus Benha University 24.25**
 
 **⚡ Showcase your identity with the Business Card App!**
 
