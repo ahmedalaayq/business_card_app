@@ -1,7 +1,5 @@
 # Business Card App
 
-![Business Card Screen](assets/business_card_screen.png)
-
 ## 🌟 Overview
 The **Business Card App** is a sleek and modern Flutter application that lets you showcase your professional identity with style. Whether you're networking or sharing your contact details, this app makes it effortless and impressive. Perfect for Flutter enthusiasts and professionals who want a stunning virtual business card.
 
@@ -44,5 +42,3 @@ The **Business Card App** is a sleek and modern Flutter application that lets yo
 **⚡ Showcase your identity with the Business Card App!**
 
 ---
-
-![Business Card App Full View](assets/business_card_screen.png)
